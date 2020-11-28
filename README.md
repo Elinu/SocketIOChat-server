@@ -16,5 +16,6 @@ this.server =
             )
           }, app);
 ```
+`SocketService.js` reference from [this](https://medium.com/better-programming/secure-websockets-with-express-and-socket-io-d9a0976c1427)
 
 For more details, please see [original repo](https://github.com/appcoda/SocketIOChat)
